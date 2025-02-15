@@ -1,7 +1,7 @@
 Package: ife
 Type: Package
 Title: Influence Function Based Estimate Objects
-Version: 0.1.0
+Version: 0.1.12
 Authors@R: 
     c(person(given = "Nicholas",
              family = "Williams",
@@ -18,8 +18,8 @@ RoxygenNote: 7.3.2
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-11-06 19:03:21 UTC; nicholaswilliams
+Packaged: 2025-02-15 02:38:12 UTC; nicholaswilliams
 Author: Nicholas Williams [aut, cre, cph]
     (<https://orcid.org/0000-0002-1378-4831>)
 Repository: CRAN
-Date/Publication: 2024-11-08 15:00:20 UTC
+Date/Publication: 2025-02-15 03:30:02 UTC
